@@ -1,0 +1,14 @@
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\UnityFramework.exe.config
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\UnityFramework.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\UnityFramework.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.Unity.xml
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\obj\Debug\UnityFramework.exe
+D:\TrainingPrograms\ITPassport\Advanced Programming & Design Patterns\DependencyInjection\UnityFramework\UnityFramework\obj\Debug\UnityFramework.pdb
